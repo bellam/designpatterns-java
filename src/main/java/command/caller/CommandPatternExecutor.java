@@ -1,7 +1,6 @@
-package command.main;
+package command.caller;
 
 import command.*;
-import strategy.*;
 
 import java.util.ArrayList;
 import java.util.List;

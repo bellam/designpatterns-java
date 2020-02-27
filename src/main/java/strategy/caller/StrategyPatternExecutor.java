@@ -1,4 +1,4 @@
-package strategy.main;
+package strategy.caller;
 
 import strategy.*;
 
